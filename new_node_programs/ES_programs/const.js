@@ -25,3 +25,4 @@ const student = {
 }
 console.log("First Name is : " + student.firstName);
 console.log("Last Name is : " + student.lastName);
+
