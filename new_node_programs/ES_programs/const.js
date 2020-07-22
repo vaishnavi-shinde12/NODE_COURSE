@@ -20,7 +20,7 @@ console.log("Updated Array elements are : " + numbers);
 
 // Objects
 const student = {
-    firstName: 'd',
+    firstName: 'Aishu',
     lastName: 'Shinde'
 }
 console.log("First Name is : " + student.firstName);
