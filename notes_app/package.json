@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "validator": "^13.1.1",
     "yargs": "^15.4.1"
   }
